@@ -14,15 +14,16 @@ Aplikasi Penguji API : Postman
 Method POST
 
 Tampilan data yang telah disorting berdasarkan Score dengan SAW
-![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/014d71a3-d846-41b2-86c6-f2deebd6ed00)
+![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/fff53dc6-0d30-486a-9f86-83970cbf3022)
 
 Tampilan data yang telah disorting berdasarkan Score dengan WP
-![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/6c785df7-f577-4016-95ae-5ac2dbd7270b)
+![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/e870a402-b638-4c73-9d60-26370446ac48)
 
 Method GET
 
 Tampilan data Pada Acer berdasarkan id
-![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/3d6044f3-2f95-4a25-b03d-662ab4c11cb4)
+![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/13fc95bd-72e3-49f2-9924-6874d5460293)
+
 
 
 
