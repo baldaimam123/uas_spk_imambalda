@@ -1,10 +1,11 @@
 File yang digunakan untuk uas yaitu:
 
-![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/c3f3576f-754c-423c-92d5-32e7ead19cf4) requirements.txt
-![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/c4adf6b2-60ed-4f1a-9781-7b898e47cb4e) engine.py
-![image](https://github.com/baldaimam123/uas_spk_imambalda/assets/118948272/d0fb915b-4afc-4c9f-b90d-91f659f0ced7) settings.py
-models.py
-main.py
+- requirements.txt
+- engine.py
+- settings.py
+- models.py
+- main.py
+  
 Python : 3.12.0
 
 DB : PostgreSQL 16
